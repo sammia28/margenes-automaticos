@@ -1,0 +1,28 @@
+.text{
+
+	border:15px solid #FCF632;
+	display: block ;
+	width: 210px;
+	height: 210px;
+	padding: 40px;
+	position: center;
+	text-align: center;
+	margin: 5px;
+	float: left;
+
+}
+.content{
+	border:15px solid #FCF632;
+	width: 210px;
+	height: 210px;
+	padding: 40px;
+	display: inline-block;
+	margin: 5;
+	float: right;
+	position:absolute;
+    bottom:10px;
+    right:35%;
+
+
+	
+}
